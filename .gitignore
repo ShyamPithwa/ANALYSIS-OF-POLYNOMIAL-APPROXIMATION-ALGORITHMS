@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+best_polynomial_results.txt
+*.png
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
